@@ -4,3 +4,4 @@
         int result = r.nextInt(high-low) + low;
         return result;
     }
+This gives you a random number in between low (inclusive) and high (exclusive)
